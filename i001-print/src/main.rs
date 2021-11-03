@@ -1,3 +1,3 @@
 fn main() {
-    println!("hello, I'm Rozzum unit 7134. 🤖🤖");
+    println!("Hello, I'm Rozzum unit 7134. 🤖")
 }
